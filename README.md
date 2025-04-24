@@ -29,15 +29,8 @@ I'm always open to collaboration, mentorship, or a great tech conversation. If y
 
 - 📧 **Email:** kagabolucky72@gmail.com  
 - 📱 **Phone:** +250 723 374 650  
-- 💼 [LinkedIn (optional)](https://www.linkedin.com/) *(Add yours if you have one)*
+- 💼 **LINKEDIN**www.linkedin.com/in/kagaboirenelucky
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucky-Kagabo&show_icons=true&theme=radical)
-
----
 
 Thanks for stopping by! 🚀  
 *Keep building. Keep innovating.*
