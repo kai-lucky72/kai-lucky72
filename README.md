@@ -29,7 +29,7 @@ I'm always open to collaboration, mentorship, or a great tech conversation. If y
 
 - 📧 **Email:** kagabolucky72@gmail.com  
 - 📱 **Phone:** +250 723 374 650  
-- 💼 **LINKEDIN**www.linkedin.com/in/kagaboirenelucky
+- 💼 **LINKEDIN:** www.linkedin.com/in/kagaboirenelucky
 
 
 Thanks for stopping by! 🚀  
