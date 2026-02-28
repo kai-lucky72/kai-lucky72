@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#00BFFF;">KAGABO Irene Lucky</span>!</h1>
-<h3 align="center">🚀 CEO & Co-Founder of <a href="https://github.com/nexatechrwanda" target="_blank">NexaTech Rwanda</a> | Software Engineer | AI & DevOps Enthusiast</h3>
+<h3 align="center">🚀 CEO & Co-Founder of <a href="https://www.nexatech.co.rw/" target="_blank">NexaTech Rwanda</a> | Software Engineer | AI & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Forward-thinking+Software+Engineer;AI+and+System+Design+Innovator;DevOps+%26+Cloud+Automation+Enthusiast;Building+Impactful+Tech+for+the+Future!"/>
